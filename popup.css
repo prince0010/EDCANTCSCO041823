@@ -1,0 +1,27 @@
+body {
+    opacity: 0.2;
+}
+#form {
+    width: 300px;
+}
+#question {
+    width: -webkit-fill-available;
+    padding: 10px;
+    margin: 0;
+    border: none;
+    background-color: #f1f1f1;
+}
+#submit {
+    border: none;
+    padding: 10px;
+    margin: auto;
+    width: -webkit-fill-available;
+    background-color: #e7e7e7;
+}
+#output {
+    padding: 10px;
+    width: -webkit-fill-available;
+    height: auto;
+    font-weight: bold;
+    color: crimson;
+}
