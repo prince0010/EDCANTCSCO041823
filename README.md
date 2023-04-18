@@ -1,10 +1,18 @@
-# EDCANTCSCO041823
+# ANTI-CISCO-E.Q
 EDUCATIONAL PURPOSES ONLY
+
+## Introduction
+
+**NOTE**
+**This extension will not be held reliable to any consequenses**
+
+This extension will allow you to see the answers from your exam by copying the question and simply pasting it on the extension then click search
+
+## Downloading
 
 Open terminal
 ``` Win + R ```
 ``` cmd  ```
-
 Go to your Downloads or Documents Folder you can do that by typing
 ```
 cd ./Downloads
