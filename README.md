@@ -52,3 +52,8 @@ git clone "https://github.com/TheNewKing00/EDCANTCSCO041823.git"
 4. In the upper left corner, click on the hamburger icon and select Keyboard Shortcuts.
 5. Find the desired extension and press a combination of “Ctrl” or “Ctrl + Shift” and any other available key.
 6. You can pick a starting letter of the extension, so it’s easier to remember — for example, use “Ctrl + Shift + L” to start the this Chrome Extension.
+
+## FAQ's
+**Q: Not working/No Answer in cisco lab activities**
+
+A: This Extension only allows you to see the actual absolute answers but not the veriable answers like lab Activities. Only Quizes and Exams!
