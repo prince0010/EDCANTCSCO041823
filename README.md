@@ -50,8 +50,17 @@ git clone "https://github.com/TheNewKing00/EDCANTCSCO041823.git"
 2. Open the More Tools menu.
 3. Select Extensions.
 4. In the upper left corner, click on the hamburger icon and select Keyboard Shortcuts.
-5. Find the desired extension and press a combination of “Ctrl” or “Ctrl + Shift” and any other available key.
-6. You can pick a starting letter of the extension, so it’s easier to remember — for example, use “Ctrl + Shift + L” to start the this Chrome Extension.
+5. Find the desired extension and press a combination of ```Ctrl``` or ```Ctrl```+```Shift``` and any other available key.
+6. You can pick a starting letter of the extension, so it’s easier to remember — for example, use ```Ctrl```+```Shift```+```F``` to start the this Chrome Extension.
+
+## Usage
+```Ctrl```+```C``` To copy the entire question do not include any numbering in the left and make sure you get the "?" at the end since this is a very case sensitive operation
+
+Then press the shortcut key you set for the extension, on this case, its ```Ctrl```+```Shift```+```F```. To activate the popup panel on the top right
+
+```Ctrl```+```V``` to paste and ```Enter``` to search for the Answer.
+
+Repeat this action to the next question
 
 ## FAQ's
 **Q: Not working/No Answer in cisco lab activities**
