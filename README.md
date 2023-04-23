@@ -57,3 +57,11 @@ git clone "https://github.com/TheNewKing00/EDCANTCSCO041823.git"
 **Q: Not working/No Answer in cisco lab activities**
 
 A: This Extension only allows you to see the actual absolute answers but not the veriable answers like lab Activities. Only Quizes and Exams!
+
+**Q: Drag and drop matching type Questions does not have any answer**
+
+A: In this case you have to copy the receiving end of the matching type and use it as a search que
+
+**Q: The transparency is too  much for me can I change it?**
+
+A: Yes you can! you can go over to the folder where the extension file is saved. then open popup.css with you favorite text editor such as notepad. then under the body property change the opacity any value from the default value. then reload the extension in chrome by going to the extension tab and Hit reload.
