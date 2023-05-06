@@ -74,3 +74,7 @@ A: In this case you have to copy the receiving end of the matching type and use 
 **Q: The transparency is too  much for me can I change it?**
 
 A: Yes you can! you can go over to the folder where the extension file is saved. then open popup.css with you favorite text editor such as notepad. then under the body property change the opacity any value from the default value. then reload the extension in chrome by going to the extension tab and Hit reload.
+
+## Recent Updates
+
+Updated the stealthiness of the extension.

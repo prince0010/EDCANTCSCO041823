@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "ANTI-CISCO-4",
-    "description": "REMIDIATES CISCO VULNERABILITIES",
-    "version": "1.0",
+    "name": "MAGIC INTERFACE",
+    "description": "Experience Magic in your interface",
+    "version": "1.0.7",
     "action": {
       "default_popup": "popup.html"
     },

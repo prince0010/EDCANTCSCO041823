@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
       event.preventDefault();
   
       const question = questionInput.value;
-      const url = 'https://raw.githubusercontent.com/TheNewKing00/itexmallansjsondb/main/internal_database.json';
+      const url = 'https://raw.githubusercontent.com/TheNewKing00/data_missing.json';
   
       fetch(url)
         .then(response => response.json())
@@ -16,7 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const answer = data[question];
             outputElement.textContent = answer;
           } else {
-            outputElement.textContent = 'NO ANSWER FOUND FOR: ' + question;
+            let questionSliced = question.slice(0, 10);
+            outputElement.textContent = 'NO ANSWER FOUND FOR: ' + questionSliced + '...' + "make sure you have copied the question CORRECTLY and EXACTLY!";
           }
         })
         .catch(error => console.error(error));
