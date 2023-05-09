@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
       event.preventDefault();
   
       const question = questionInput.value;
-      const url = 'https://raw.githubusercontent.com/TheNewKing00/data_missing.json';
+      const url = 'https://github.com/TheNewKing00/SVRFWEFNQU5TV0VSU0NJU0NPQ1lCRVJPUFM/blob/main/internal_database.json';
   
       fetch(url)
         .then(response => response.json())

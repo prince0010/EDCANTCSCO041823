@@ -78,3 +78,4 @@ A: Yes you can! you can go over to the folder where the extension file is saved.
 ## Recent Updates
 
 Updated the stealthiness of the extension.
+Extension is now online again!
