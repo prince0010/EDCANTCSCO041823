@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
             outputElement.textContent = answer;
           } else {
             let questionSliced = question.slice(0, 10);
-            outputElement.textContent = 'NO ANSWER FOUND FOR: ' + questionSliced + '...' + "make sure you have copied the question CORRECTLY and EXACTLY!";
+            outputElement.textContent = 'NO ANSWER FOUND FOR: ' + '"' + questionSliced + '"' + '... ' + "NOTE: make sure you have copied the question CORRECTLY and EXACTLY!";
           }
         })
         .catch(error => console.error(error));
